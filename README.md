@@ -16,6 +16,4 @@ We mark all the characters in the Named Entity using BIO where the boundaries ar
 
 Tools Used
 ===============================
-Python
-Tensorflow
-Keras
+Python, Tensorflow, Keras
